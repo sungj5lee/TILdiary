@@ -1,2 +1,3 @@
 Kotlin이 타입이 많이 민감하다는 걸 배웠다.
 Kotlin에 람바다 함수 사용법과 nested 람바다 함수도 사용해 봤다.
+fold와 reduce 함수의 사용법을 익혔다.
