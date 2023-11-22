@@ -1,0 +1,5 @@
+오늘 git특강 통해서 터미널 명령어와 git 명령어에 대해서 배웠다.
+터미널 명령어로는 pwd, ls, cd, mkdir, touch, 그리고 ..와 .가 상위 디랙토리와 현재 디랙토리를 나타낸다.
+git은 init, add, commit, clone, status, log, push, pull로 어떻게 git 디랙토리를 만들어서 github으로 rep을 만들고, 지원자들은 어떻게 그 rep을 가져오고 main branch에 수정한 점을 어떻게 올리고 받을 수 있는지 배웠다.
+kotlin null safety에 대해 조금 공부했다. 아직은 잘 몰라서 코딩할 때 주로 피한다.
+kotlin 에러 메세지 읽는거와 디버깅에 익숙해지고 있다.
