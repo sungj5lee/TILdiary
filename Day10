@@ -1,0 +1,4 @@
+git 특강으로 branch에 대해 알아 봤다.
+branch는 원조 파일을 놔두면서 따로 개발할 복제 파일을 만드는 일이다.
+branch는 main와 dev branch로 구분하면 보통 dev branch는 로컬에서 main이랑 합치는 것이 아니라, 먼저 github으로 올려 push request로 확인을 받은 다음에 main이랑 merge한다.
+참고로 로컬 branch를 push하기 전, main을 pull해서 main이랑 merge하는데 충돌이 발생하지 않는지 확인해야한다.
