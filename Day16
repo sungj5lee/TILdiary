@@ -1,0 +1,8 @@
+어제 공동 과제를 하면서 기본적으로 앱 만드는 방법을 예비수업에서 배운데로 만들 수 있어서 기뻤다.
+그리고 registerForActivityResult에 대해서도 배울 수 있었다.
+registerForActivityResult: intent 만든 후 엑티비티를 실행하고 닫을 때 실행된 엑티비티에서 intent에 putExtra를 통해서 map형태로 정보를 공유할 수 있다.
+반드시 실행된 엑티비티에서 result의 상태를 RESULT_OK로 바꾸어야 result내의 정보를 접근할 수 있다. 안그러면 null로 모든 정보가 나온다.
+result내의 data에서 get<T>Extra 함수로 원하는 데이터를 key값을 통해 접근한다.
+그 외에 drawable를 array에 넣을 수 있다는 걸 알게 되었고, 영문 대문자를 아예 파일명에 사용불가능하다는 걸 알게되었다.
+개인적으로 view를 만들 때 design탭이 편하다. refactor를 찾을 필요없이 필드를 바꿀 때 자동으로 refactor 된다. 그리고 검색기능으로 필드 찾기가 쉽다.
+string은 strings.xml에 넣야하는 걸 습관시켜야한다.
